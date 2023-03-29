@@ -1,0 +1,6 @@
+// for example copy the entire dir command outcomes
+
+dir | clip
+
+
+// use | clip to copy any outcomes
