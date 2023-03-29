@@ -1,0 +1,13 @@
+// In windows
+
+PowerShell -Command "Add-Type –AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('hello');"
+
+
+// In Mac or OSX
+
+say "hello"
+
+
+// In Ubuntu
+
+spd-say "hello"
