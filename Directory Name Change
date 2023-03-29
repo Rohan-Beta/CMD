@@ -1,0 +1,11 @@
+// Change Directory Name in windows
+
+help prompt
+prompt something $G
+
+
+//get current date
+
+prompt $D
+
+//etc
