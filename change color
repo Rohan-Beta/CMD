@@ -1,3 +1,6 @@
 // In windows
 
 help color
+color 2
+
+// 2 is id for green color , each color has unique id
