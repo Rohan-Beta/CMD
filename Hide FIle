@@ -1,0 +1,16 @@
+// Step 1:
+
+// paste the directory name where your file is stored
+
+cd directoryName
+
+
+// Step 2:
+
+// hide file
+
+Attrib +h +s +r fileName
+
+//unhide it
+
+Attrib -h -s -r fileName
