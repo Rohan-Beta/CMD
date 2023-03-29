@@ -1,0 +1,3 @@
+// to view all Installed Prdcuct Name in windows
+
+wmic product get name
