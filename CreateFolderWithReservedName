@@ -1,0 +1,8 @@
+// Create Folder With Reserved Name in windows
+
+md aux\
+
+
+// aux is also a reserved file name
+
+//use md to create a file and name it anything you want
