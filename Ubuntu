@@ -1,0 +1,16 @@
+// install sudo in VB and add user in sudo file
+
+// open terminal an paste this cmd line
+su root // it is for root the os
+
+// in root
+apt-get install sudo -y // install sudo command
+
+// in root
+adduser vboxuser sudo // add user in sudo file
+
+//in root
+exit // to exit root function
+
+//check 
+sudo su
