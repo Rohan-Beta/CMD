@@ -1,0 +1,23 @@
+// check c compiler is present or not
+
+gcc --version
+
+// install c compiler
+
+sudo apt install gcc
+
+// create a folder and inside the folder create a c file, and save it as extension .c
+
+//create file
+gedit
+
+//rename it
+touch rename.c
+
+//if file name is hello.c
+
+gcc hello.c
+gcc hello.c -o hello
+./hello
+
+//output will be shown
